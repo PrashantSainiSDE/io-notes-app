@@ -1,4 +1,4 @@
-package com.srms.app;
+package com.io.notes.app;
 
 import java.io.*;
 import java.util.Scanner;

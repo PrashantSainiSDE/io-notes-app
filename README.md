@@ -121,7 +121,7 @@ mvn compile
 ### ▶️ Step 3: Run the Application
 Execute:
 ```bash
-mvn exec:java -Dexec.mainClass="com.srms.app.NotesApp"
+mvn exec:java -Dexec.mainClass="com.io.notes.app.NotesApp"
 ```
 (Ensure you have the Maven Exec Plugin configured — it’s included by default in maven-archetype-quickstart projects.)
 
